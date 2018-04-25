@@ -2,4 +2,4 @@
 
 Narzędzie korzystające z API Google dzięki któremu można skracać linki
 
-Live: []
+Live: [https://focussmok.github.io/Shortener/](https://focussmok.github.io/Shortener/)
